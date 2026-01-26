@@ -1,0 +1,7 @@
+
+1. analysis of algorithms
+2. mathematics
+3. list
+4. recursion
+5. searching
+6. sorting
