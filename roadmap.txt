@@ -1,7 +1,20 @@
 
+data structures basic
+
 1. analysis of algorithms
 2. mathematics
 3. list
 4. recursion
 5. searching
 6. sorting
+7. hashing
+8. string 
+9. linked list 
+10. circular linked list 
+11. doubly linked list 
+12. stack 
+13. queue
+14. deque
+15. tree
+16. binary search tree 
+17. heap 
